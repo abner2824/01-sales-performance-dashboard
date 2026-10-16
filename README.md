@@ -1,2 +1,2 @@
-# 01-sales-performance-dashboard
+# nexus-distribuicao-BI
 Business Intelligence project focused on sales performance analysis using Power BI.
